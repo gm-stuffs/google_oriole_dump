@@ -1,0 +1,14 @@
+# oriole-user 14 AP1A.240505.004 11583682 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: oriole
+- flavor: oriole-user
+- release: 14
+- id: AP1A.240505.004
+- incremental: 11583682
+- tags: release-keys
+- fingerprint: google/oriole/oriole:14/AP1A.240505.004/11583682:user/release-keys
+- is_ab: true
+- brand: google
+- branch: oriole-user-14-AP1A.240505.004-11583682-release-keys
+- repo: google_oriole_dump
